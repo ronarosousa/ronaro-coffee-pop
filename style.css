@@ -190,3 +190,7 @@ footer a {
   color: var(--text-color);
   letter-spacing: .5px;
 }
+
+footer span {
+  color: var(--text-color);
+}
